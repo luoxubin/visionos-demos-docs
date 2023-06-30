@@ -6,5 +6,5 @@ The app uses windows, volumes, and immersive spaces to present information
 in ways that best suit different teaching objectives.
 
 For more information about the app and how it works, see
-[Hello World](https://developer.apple.com/documentation/visionos/world)
+[Hello World ](https://developer.apple.com/documentation/visionos/world)
 in the developer documentation.
